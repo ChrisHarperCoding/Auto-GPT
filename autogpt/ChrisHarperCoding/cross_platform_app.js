@@ -1,0 +1,1 @@
+# code for the cross-platform application using React Native goes here

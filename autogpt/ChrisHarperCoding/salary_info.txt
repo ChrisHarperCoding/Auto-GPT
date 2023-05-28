@@ -1,0 +1,1 @@
+Based on the results of the 'google' command, we can see that the average salary for a software engineer with Python skills in the United States is around $100,000. However, this number can vary depending on factors such as education, certifications, and additional skills.

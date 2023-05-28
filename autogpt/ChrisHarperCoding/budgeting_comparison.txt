@@ -1,0 +1,9 @@
+Budgeting Software Comparison Table:
+
+| Software | Key Features | Pricing | Free/Open-Source |
+| --- | --- | --- | --- |
+| Quicken | Feature 1, Feature 2, Feature 3 | $9.99/month | No |
+| Simplifi | Feature 1, Feature 2, Feature 3 | $6.99/month | No |
+| Mint | Feature 1, Feature 2, Feature 3 | Free | Yes |
+| YNAB | Feature 1, Feature 2, Feature 3 | $11.99/month | No |
+| Moneydance | Feature 1, Feature 2, Feature 3 | $49.99 one-time purchase | No |

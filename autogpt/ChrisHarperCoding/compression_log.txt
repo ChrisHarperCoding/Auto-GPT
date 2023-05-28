@@ -1,0 +1,1 @@
+Error: Compressed file not found at /Users/chris/Documents/GitHub/Auto-GPT/Test2/Auto-GPT/autogpt/auto_gpt_workspace/CompressGPT/Tests/Test1/compressed_folder.tar.gz
